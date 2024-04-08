@@ -63,4 +63,4 @@ jobs:
           app-name: 'ZarApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D4EDBA96FC2433BBB0B6F1A96BDB668 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4F5BCD532ECB4D2692D8394A0F7C1AB5 }}
